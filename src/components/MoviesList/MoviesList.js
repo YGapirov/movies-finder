@@ -12,6 +12,8 @@ import mainplaceholder from 'services/mainplaceholder.png';
 export const MoviesList = ({ films }) => {
   const location = useLocation();
 
+  
+
   return (
     <MoviesListContainer>
       {films.map(film => (

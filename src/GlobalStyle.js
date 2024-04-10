@@ -29,20 +29,38 @@ img {
   max-width: 100%;
   height: auto;
 }
-/* h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p {
-  margin: 0;
-} */
+
 ul,
 ol {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+/* Стилізація скрола */
+/* Додаємо стилі для всіх скролбарів */
+::-webkit-scrollbar {
+  width: 10px; /* Ширина скролбара */
+}
+
+/* Стилізуємо фон скролбара */
+::-webkit-scrollbar-track {
+  background: #f1f1f1; /* Фон */
+}
+
+/* Стилізуємо "ручку" скролбара */
+::-webkit-scrollbar-thumb {
+  background: #888; /* Колір "ручки" */
+}
+
+/* Стилізуємо кнопки скролбара */
+::-webkit-scrollbar-button {
+  display: none; /* Ховаємо кнопки */
+}
+
+/* Стилізуємо кутовий елемент скролбара */
+::-webkit-scrollbar-corner {
+  background: transparent; /* Фон */
 }
 
 `;
