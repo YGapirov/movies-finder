@@ -6,6 +6,7 @@ import { MoviesList } from 'components/MoviesList/MoviesList';
 import { Loader } from 'components/Loader/Loader';
 import { Searchbar } from 'components/Searchbar/SearchBar';
 import { StyleErrorMsg, StyledNotFound } from './MoviesPage.styled';
+import ScrollButton from 'components/ScrollUp/ScrollUp';
 
 export default function MoviesPage() {
   const [movies, setMovies] = useState([]);
@@ -57,6 +58,7 @@ export default function MoviesPage() {
       {error === 'notFound' && (
         <StyledNotFound>Movie "{query}" not found.</StyledNotFound>
       )}
+      <ScrollButton />
     </div>
   );
 }

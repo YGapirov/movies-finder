@@ -6,7 +6,6 @@ import { LoadingMessage } from 'pages/Homepage/HomePage.styled';
 
 import Cast from './Cast/Cast';
 import Reviews from './Reviews/Reviews';
-import TrailerPage from '../pages/TrailerPage/TrailerPage';
 
 const HomePage = lazy(() => import('pages/Homepage/HomePage'));
 const MovieDetailsPage = lazy(() =>
@@ -26,7 +25,6 @@ export const App = () => {
             <Route path="cast" element={<Cast />} />
             <Route path="reviews" element={<Reviews />} />
           </Route>
-          <Route path="trailer" element={<TrailerPage />} />
         </Route>
         <Route path="*" element={<NotFoundPage />} />
       </Routes>

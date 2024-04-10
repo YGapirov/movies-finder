@@ -21,6 +21,10 @@ export const StyledNavLink = styled(NavLink)`
   color: white;
   font-size: 20px;
 
+  &:hover {
+    color: gold;
+  }
+
   &.active {
     color: gold;
     font-weight: bold;

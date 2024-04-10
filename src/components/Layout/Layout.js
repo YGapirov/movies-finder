@@ -15,9 +15,6 @@ export const Layout = () => {
             <li>
               <StyledNavLink to="/movies">Movies</StyledNavLink>
             </li>
-            <li>
-              <StyledNavLink to="/trailer">Trailer</StyledNavLink>
-            </li>
           </StyledList>
         </nav>
       </StyledHeader>
