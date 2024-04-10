@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/movies-finder/static/css/main.c01594e9.css",
+    "main.js": "/movies-finder/static/js/main.fa6f9ff6.js",
+    "static/js/752.56486e21.chunk.js": "/movies-finder/static/js/752.56486e21.chunk.js",
+    "static/js/372.7b83dd6f.chunk.js": "/movies-finder/static/js/372.7b83dd6f.chunk.js",
+    "static/css/35.574e5913.chunk.css": "/movies-finder/static/css/35.574e5913.chunk.css",
+    "static/js/35.58935260.chunk.js": "/movies-finder/static/js/35.58935260.chunk.js",
+    "static/js/791.caadc89b.chunk.js": "/movies-finder/static/js/791.caadc89b.chunk.js",
+    "static/js/881.76b991c6.chunk.js": "/movies-finder/static/js/881.76b991c6.chunk.js",
+    "static/js/705.82f06567.chunk.js": "/movies-finder/static/js/705.82f06567.chunk.js",
+    "static/js/324.5d5801f5.chunk.js": "/movies-finder/static/js/324.5d5801f5.chunk.js",
+    "static/media/mainplaceholder.png": "/movies-finder/static/media/mainplaceholder.0303e47a6a5dc3b60888.png",
+    "static/media/placeholder.png": "/movies-finder/static/media/placeholder.0f9c2257f41d296f8a92.png",
+    "index.html": "/movies-finder/index.html",
+    "static/media/icons8-search.svg": "/movies-finder/static/media/icons8-search.0880c1332a0a581b7171.svg",
+    "main.c01594e9.css.map": "/movies-finder/static/css/main.c01594e9.css.map",
+    "main.fa6f9ff6.js.map": "/movies-finder/static/js/main.fa6f9ff6.js.map",
+    "752.56486e21.chunk.js.map": "/movies-finder/static/js/752.56486e21.chunk.js.map",
+    "372.7b83dd6f.chunk.js.map": "/movies-finder/static/js/372.7b83dd6f.chunk.js.map",
+    "35.574e5913.chunk.css.map": "/movies-finder/static/css/35.574e5913.chunk.css.map",
+    "35.58935260.chunk.js.map": "/movies-finder/static/js/35.58935260.chunk.js.map",
+    "791.caadc89b.chunk.js.map": "/movies-finder/static/js/791.caadc89b.chunk.js.map",
+    "881.76b991c6.chunk.js.map": "/movies-finder/static/js/881.76b991c6.chunk.js.map",
+    "705.82f06567.chunk.js.map": "/movies-finder/static/js/705.82f06567.chunk.js.map",
+    "324.5d5801f5.chunk.js.map": "/movies-finder/static/js/324.5d5801f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c01594e9.css",
+    "static/js/main.fa6f9ff6.js"
+  ]
+}
